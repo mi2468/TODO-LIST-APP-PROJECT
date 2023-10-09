@@ -173,7 +173,7 @@ i:hover {
 
 @media(max-width: 425px) {
     .todo-item {
-        width: 94%;
+        width: 97%;
     }
 
     .text {
@@ -193,7 +193,7 @@ i:hover {
 
 @media(max-width: 375px) {
     input {
-        width: 84%;
+        width: 83%;
     }
     .todo-item {
         width: 88%;
